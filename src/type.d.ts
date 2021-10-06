@@ -1,4 +1,4 @@
 interface Window {
-  DynamicFunction: typeof DynamicFunction;
-  gsDF: typeof gsDF;
+  DynamicFunction: typeof import("./set")["DynamicFunction"];
+  gsDF: typeof import("./set")["gsDF"];
 }

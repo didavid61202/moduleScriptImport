@@ -1,0 +1,20 @@
+{
+  "name": "test-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc --outDir dist --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/didavid61202/moduleScriptImport.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/didavid61202/moduleScriptImport/issues"
+  },
+  "homepage": "https://github.com/didavid61202/moduleScriptImport#readme"
+}
